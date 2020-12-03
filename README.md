@@ -1,8 +1,15 @@
-# Facial recognition API SAAS
+<p align="center">
+  <p align="center">
+    <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
+      <img src="https://assets.justdjango.com/static/branding/logo.svg" alt="JustDjango" height="72">
+    </a>
+  </p>
+  <p align="center">
+    The Definitive Django Learning Platform.
+  </p>
+</p>
 
-[![alt text](https://github.com/justdjango/facial-recognition-saas/blob/master/thumbnail.png "Logo")](https://www.justdjango.com)
-
-To learn how to build this application, [head over to our website.](https://www.justdjango.com)
+To learn how to build this application, [head over to our website.](https://justdjango.com)
 
 This project is a facial recognition API. Users are able to create an account, utilise a free trial of the API, and create a membership to have full access to the API. Payments are handled with Stripe. The API is built with the Django Rest Framework and the frontend is built with React. The image recognition library is OpenCV. The project is deployed on Ubuntu using Digital Ocean.
 
@@ -32,3 +39,4 @@ npm start
 
 ## Disclaimer
 This project does not cover concepts of image recognition - it is a proof of concept teaching how to take an idea from scratch to something real.
+
